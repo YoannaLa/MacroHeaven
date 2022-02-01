@@ -1,2 +1,2 @@
-web: gunicorn heaven.wsgi
+web: gunicorn macro.wsgi:application
 
