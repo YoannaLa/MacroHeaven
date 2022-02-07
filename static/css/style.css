@@ -1,16 +1,17 @@
 body {
     background-color: #F9FAFC;
+    margin-top: 15px;
 }
 
-.brand {
+.brand  {
     font-family: Lato, sans-serif;
-    font-size: 1.4rem;
-    font-weight: 700;
-    color: #4A4A4F;
+    font-size: 2 rem;
+    font-weight: 800;
+    color: #2086a0;
 }
 
-.red-o {
-    color: #E84610;
+.heaven-color{
+    color: #10e86a;
 }
 
 .thin {
@@ -22,11 +23,11 @@ body {
 }
 
 .dark-bg {
-    background-color: #445261;
+    background-color: #a1afbd;
 }
 
 .main-bg {
-    background-color: #F9FAFC;
+    background-color: #97999c;
 }
 
 .card {
@@ -93,7 +94,7 @@ body {
 
 .post-link:hover,
 .page-link {
-    color: #E84610;
+    color: #10e8c4;
 }
 
 .post-title {
